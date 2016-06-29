@@ -1,0 +1,23 @@
+{
+  "name": "boot-practice-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class-practice-import-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccochapa/boot-practice-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riccochapa/boot-practice-class/issues"
+  },
+  "homepage": "https://github.com/riccochapa/boot-practice-class#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
